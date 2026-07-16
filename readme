@@ -1,0 +1,82 @@
+# 🛍️ Customer Shopping Behavior Analysis
+
+## 📖 Project Overview
+
+This project analyzes customer shopping behavior using **Power BI**.
+ The dashboard provides interactive visualizations to understand customer demographics, shopping trends, product category performance, and payment methods.
+ The goal is to help businesses make data-driven decisions by identifying purchasing patterns and customer preferences.
+
+---
+
+## 🎯 Business Problem
+
+Retail businesses need to understand customer purchasing behavior to improve sales, optimize inventory, and create targeted marketing strategies.
+ This project explores customer shopping data to identify key trends and provide actionable business insights.
+
+---
+
+## 🎯 Objectives
+
+- Analyze customer purchasing behavior.
+- Identify the most popular product categories.
+- Study customer demographics.
+- Compare payment methods.
+- Generate business insights and recommendations.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Power Query
+- CSV Dataset
+
+---
+
+## 📂 Project Structure
+
+```
+Customer-Shopping-Behavior-Analysis/
+│
+├── data/
+├── dashboard/
+├── images/
+├── reports/
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+## 📊 Dashboard
+
+*()*
+
+---
+
+## 💡 Key Insights
+
+- Customer purchasing trends can be identified through interactive visualizations.
+- Product category performance helps businesses understand customer demand.
+- Customer demographics reveal purchasing patterns across different groups.
+- Payment method analysis highlights customer preferences.
+
+---
+
+## 📈 Business Recommendations
+
+- Maintain sufficient inventory for high-demand product categories.
+- Design targeted marketing campaigns based on customer demographics.
+- Improve customer experience by supporting preferred payment methods.
+- Use dashboard insights for strategic business decisions.
+
+---
+
+## 👨‍💻 Author
+
+**israr khan**
+
+Aspiring Data Analyst
+
+Power BI | Excel | SQL | Python (Learning)
